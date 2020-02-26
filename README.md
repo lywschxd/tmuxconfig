@@ -22,6 +22,8 @@ prefix已经从C-b更改为C-a
 | prefix pgUp/pqDown   | 滚动，使用q退出        |
 | prefix t             | 显示时间，就是一个屏保 |
 | prefix [             | 复制模式               |
+| prefix ,             | 更改window名称         |
+| prefix .             | 更改window ID         |
 
 ## 复制模式
 
